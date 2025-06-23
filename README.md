@@ -12,7 +12,7 @@
 
 ### 📌 Progress Tracker
 - [x] Pandas (Kaggle notebooks)
-- [ ] Numpy (in progress)
+- [x] Numpy (Done)
 - [ ] Matplotlib
 - [ ] Seaborn
 

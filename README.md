@@ -1,20 +1,27 @@
-﻿# ML Learning Journey 🚀
+# ML Learning Journey 🚀
+
 ### 🗓️ Timeline
 > Starting: June 2025  
 > Goal: Master ML basics by October 2025
 
+---
+
 ### 📁 Folder Structure
 
 - `01_Numpy/` – Numpy basics and advanced operations
-- `02_Matplotlib/` – Data visualization using Matplotlib
+- `scikitlearn/` – Machine learning with Scikit-learn (replacing Matplotlib for now)
 - `03_Seaborn/` – Statistical plotting with Seaborn
 - `04_Pandas/` – Data wrangling (✅ Done on Kaggle)
+
+---
 
 ### 📌 Progress Tracker
 - [x] Pandas (Kaggle notebooks)
 - [x] Numpy (Done)
-- [ ] Matplotlib
+- [ ] Scikit-learn
 - [ ] Seaborn
+
+---
 
 ### 🔗 Profiles
 - 🧠 [Kaggle Profile](https://www.kaggle.com/priyankarmajumdar)

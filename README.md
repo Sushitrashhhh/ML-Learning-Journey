@@ -18,7 +18,7 @@
 ### 📌 Progress Tracker
 - [x] Pandas (Kaggle notebooks)
 - [x] Numpy (Done)
-- [ ] Scikit-learn
+- [x] Scikit-learn 
 - [ ] Seaborn
 
 ---
@@ -26,3 +26,4 @@
 ### 🔗 Profiles
 - 🧠 [Kaggle Profile](https://www.kaggle.com/priyankarmajumdar)
 - 💻 [LinkedIn](https://www.linkedin.com/in/priyankar-majumdar/)
+

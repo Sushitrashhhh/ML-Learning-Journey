@@ -19,11 +19,13 @@
 - [x] Pandas (Kaggle notebooks)
 - [x] Numpy (Done)
 - [x] Scikit-learn 
-- [ ] Seaborn
+- [x] Deep Learning
+- [ ] Reinforcement Learning
 
 ---
 
 ### 🔗 Profiles
 - 🧠 [Kaggle Profile](https://www.kaggle.com/priyankarmajumdar)
 - 💻 [LinkedIn](https://www.linkedin.com/in/priyankar-majumdar/)
+
 

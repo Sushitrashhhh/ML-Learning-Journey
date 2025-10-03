@@ -20,12 +20,13 @@
 - [x] Numpy (Done)
 - [x] Scikit-learn 
 - [x] Deep Learning
-- [ ] Reinforcement Learning
+- [x] Reinforcement Learning
 
 ---
 
 ### 🔗 Profiles
 - 🧠 [Kaggle Profile](https://www.kaggle.com/priyankarmajumdar)
 - 💻 [LinkedIn](https://www.linkedin.com/in/priyankar-majumdar/)
+
 
 
